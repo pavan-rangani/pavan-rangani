@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://pavanrangani.com"><img src="https://img.shields.io/badge/Portfolio-pavanrangani.com-00e5ff?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="https://blogs.pavanrangani.com"><img src="https://img.shields.io/badge/Blog-Technical%20Blog-0891b2?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/pavan-rangani"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/pavanrangani"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
